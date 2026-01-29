@@ -1,4 +1,5 @@
 mustafa Qaid saleh alwajeeh G2 
 ## Note
-Fork was used because the project was uploaded from GitHub mobile app.
-All work is my own.
+## Note
+This repository was created using a fork for technical submission purposes only.
+All content was developed and submitted by the student
